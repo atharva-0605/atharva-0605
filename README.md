@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi, I'm Atharva Pawar 👋</h1>
 <h3 align="center">Artificial Intelligence & Data Science Student | Datta Meghe College of Engineering, Mumbai University | DSA Enthusiast</h3>
 
@@ -129,4 +128,3 @@
 ### 💡 *"Keep Learning • Keep Building • Keep Growing"* 🚀
 
 </p>
-```
