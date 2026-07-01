@@ -270,16 +270,6 @@ class AtharvaPawar {
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=atharva-0605&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva-0605&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -342,14 +332,6 @@ class AtharvaPawar {
 - ✅ Secure a Software Development Internship
 
 ---
-
-# 💬 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
 
 ---
 
