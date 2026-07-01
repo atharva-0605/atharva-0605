@@ -45,7 +45,7 @@ class AtharvaPawar {
     String college =
         "Datta Meghe College of Engineering";
 
-    double cgpa = 8.8;
+    double cgpa = 9;
 
     String location = "Mumbai, India";
 
