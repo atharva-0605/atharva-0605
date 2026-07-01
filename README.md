@@ -248,7 +248,7 @@ class AtharvaPawar {
 
 📅 Expected Graduation: **June 2028**
 
-📈 **CGPA:** **8.8 / 10**
+📈 **CGPA:** ** 9 / 10**
 
 ---
 
@@ -301,14 +301,6 @@ class AtharvaPawar {
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=atharva-0605&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
 
 ---
 
