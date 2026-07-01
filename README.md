@@ -324,13 +324,11 @@ class AtharvaPawar {
 
 # 🐍 Contribution Snake
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/atharva-0605/atharva-0605/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/atharva-0605/atharva-0605/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-> **⚠️ Note:** The snake animation won't appear immediately. It requires a GitHub Actions workflow, which you'll need to set up after creating your profile repository.
 
 ---
 
