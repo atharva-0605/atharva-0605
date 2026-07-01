@@ -117,7 +117,7 @@
 ## Connect with Me
 
 - 🌐 **GitHub:** https://github.com/atharva-0605
-- 💼 **LinkedIn:** *(Add your LinkedIn profile URL)*
+- 💼 **LinkedIn:** https://www.linkedin.com/in/atharva-pawar-16819b371/
 - 📧 **Email:** atharvapawar0605@gmail.com
 - 📍 **Location:** Mumbai, Maharashtra, India
 
