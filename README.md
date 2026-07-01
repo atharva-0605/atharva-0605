@@ -36,32 +36,30 @@ AI & Data Science Student | Full Stack Developer | MERN Stack Enthusiast | DSA L
 
 # 👨‍💻 About Me
 
-```java
-class AtharvaPawar {
+Hi there! 👋 I'm **Atharva Pawar**, an **Artificial Intelligence & Data Science** undergraduate passionate about **Full Stack Development**, **Artificial Intelligence**, and building scalable web applications. I enjoy solving real-world problems through technology while continuously enhancing my skills in **Data Structures & Algorithms** and modern software development.
 
-    String education =
-        "B.Tech Artificial Intelligence & Data Science";
+<table>
+<tr>
+<td>
 
-    String college =
-        "Datta Meghe College of Engineering";
+| 🎓 **Education** | B.Tech in Artificial Intelligence & Data Science |
+| :--------------- | :----------------------------------------------- |
+| 🏫 **University** | Mumbai University |
+| 🏛️ **College** | Datta Meghe College of Engineering |
+| 📈 **CGPA** | **8.8 / 10** |
+| 📍 **Location** | Mumbai, Maharashtra, India 🇮🇳 |
+| 💻 **Specialization** | MERN Stack • Full Stack Development • REST APIs |
+| 🤖 **Interests** | Artificial Intelligence • Machine Learning • Web Development |
+| 🧩 **Core Skills** | Data Structures & Algorithms • Object-Oriented Programming • DBMS |
+| 🌱 **Currently Learning** | System Design • Advanced Backend • AI/ML |
+| 🚀 **Current Project** | **DATALYZE AI** *(Under Development)* |
+| 💼 **Experience** | Technical Intern @ **Pantech E-Learning** |
+| 👥 **Leadership** | Technical Committee Member @ **SHAIDS** |
+| 🎯 **Career Goal** | Aspiring Software Development Engineer (SDE) focused on building scalable and impactful applications |
 
-    double cgpa = 9;
-
-    String location = "Mumbai, India";
-
-    String[] interests = {
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Structures & Algorithms",
-        "Open Source"
-    };
-
-    String currentFocus =
-        "Building scalable MERN applications.";
-
-}
-```
+</td>
+</tr>
+</table>
 
 ---
 
