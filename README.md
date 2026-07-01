@@ -32,16 +32,6 @@ AI & Data Science Student | Full Stack Developer | MERN Stack Enthusiast | DSA L
 
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=atharva-0605&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/atharva-0605?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/atharva-0605?affiliations=OWNER&style=for-the-badge"/>
-
-</p>
-
 ---
 
 # 👨‍💻 About Me
