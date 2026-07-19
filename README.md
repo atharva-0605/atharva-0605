@@ -46,7 +46,7 @@ Hi there! 👋 I'm **Atharva Pawar**, an **Artificial Intelligence & Data Scienc
 | :--------------- | :----------------------------------------------- |
 | 🏫 **University** | Mumbai University |
 | 🏛️ **College** | Datta Meghe College of Engineering |
-| 📈 **CGPA** | **8.8 / 10** |
+| 📈 **CGPA** | **9 / 10** |
 | 📍 **Location** | Mumbai, Maharashtra, India 🇮🇳 |
 | 💻 **Specialization** | MERN Stack • Full Stack Development • REST APIs |
 | 🤖 **Interests** | Artificial Intelligence • Machine Learning • Web Development |
