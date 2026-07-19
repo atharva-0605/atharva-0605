@@ -179,7 +179,7 @@ Hi there! 👋 I'm **Atharva Pawar**, an **Artificial Intelligence & Data Scienc
       <p>
         <code>React</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code>
       </p>
-      <a href="https://github.com/atharva-0605">📁 GitHub Repository</a>
+      <a href="https://github.com/atharva-0605/visiting-pass-management-system">📁 GitHub Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Datalyze AI</h3>
