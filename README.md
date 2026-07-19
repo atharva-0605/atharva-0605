@@ -283,17 +283,6 @@ Hi there! 👋 I'm **Atharva Pawar**, an **Artificial Intelligence & Data Scienc
 
 ---
 
----
-
-# 🐍 Contribution Snake
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/atharva-0605/atharva-0605/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
 
 # 📜 Certifications
 
