@@ -168,6 +168,7 @@ Hi there! 👋 I'm **Atharva Pawar**, an **Artificial Intelligence & Data Scienc
 </p>
 
 ---
+
 # 🚀 Featured Projects
 
 <table width="100%">
@@ -207,6 +208,7 @@ Hi there! 👋 I'm **Atharva Pawar**, an **Artificial Intelligence & Data Scienc
     </td>
   </tr>
 </table>
+
 ---
 
 <p align="center">
