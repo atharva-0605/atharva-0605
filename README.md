@@ -215,6 +215,7 @@ Hi there! 👋 I'm **Atharva Pawar**, an **Artificial Intelligence & Data Scienc
 ### 💡 *"Code • Learn • Build • Repeat"*
 
 </p>
+
 # 💼 Experience
 
 ## 💻 Technical Intern | Pantech E-Learning
@@ -239,7 +240,7 @@ Hi there! 👋 I'm **Atharva Pawar**, an **Artificial Intelligence & Data Scienc
 
 📅 Expected Graduation: **June 2028**
 
-📈 **CGPA:** ** 9 / 10**
+📈 **CGPA:** **9 / 10**
 
 ---
 
@@ -261,14 +262,10 @@ Hi there! 👋 I'm **Atharva Pawar**, an **Artificial Intelligence & Data Scienc
 
 ---
 
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva-0605&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -276,13 +273,10 @@ Hi there! 👋 I'm **Atharva Pawar**, an **Artificial Intelligence & Data Scienc
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva-0605&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
-
 
 # 📜 Certifications
 
@@ -310,8 +304,6 @@ Hi there! 👋 I'm **Atharva Pawar**, an **Artificial Intelligence & Data Scienc
 - ✅ Explore Artificial Intelligence & Machine Learning
 - ✅ Contribute to Open Source
 - ✅ Secure a Software Development Internship
-
----
 
 ---
 
