@@ -168,53 +168,45 @@ Hi there! 👋 I'm **Atharva Pawar**, an **Artificial Intelligence & Data Scienc
 </p>
 
 ---
-
 # 🚀 Featured Projects
 
-## 🛂 Digital Pass Management System
-
-> **Secure Digital Visitor Pass Management System**
-
-### 🔥 Highlights
-
-- Secure Authentication
-- REST APIs
-- Modern React UI
-- MongoDB Database
-- MERN Stack
-
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB` `Git`
-
-🔗 **Repository:** *(Add Link)*
-
-🌐 **Live Demo:** *(Coming Soon)*
-
----
-
-## 🤖 DATALYZE AI
-
-> **AI Powered Data Analysis Platform**
-
-🚧 **Currently Under Development**
-
-### Planned Features
-
-- AI Data Insights
-- Interactive Dashboard
-- Smart Analytics
-- Secure Authentication
-- Real-time Reports
-
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB`
-
-🔗 **Repository:** *(Coming Soon)*
-
-🌐 **Live Demo:** *(Coming Soon)*
-
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛂 Digital Pass Management System</h3>
+      <p><strong>Secure Digital Visitor Pass Management System</strong></p>
+      <p>A web application built to streamline visitor tracking, authorization, and secure digital pass generation.</p>
+      <p>
+        <code>React</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code>
+      </p>
+      <a href="https://github.com/atharva-0605">📁 GitHub Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Datalyze AI</h3>
+      <p><strong>AI-Powered Data Analysis Platform</strong></p>
+      <p>An interactive, smart analytics dashboard designed to process raw datasets and extract automated, AI-driven business insights.</p>
+      <p>
+        <code>React</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code>
+      </p>
+      <a href="https://github.com/atharva-0605/Datalyze">📁 GitHub Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 SafeDrive Cockpit</h3>
+      <p><strong>Intelligent Driving & Fleet Telematics Ecosystem</strong></p>
+      <p>A smart cockpit interface focused on monitoring driving behavior, metrics tracking, and driver safety indicators.</p>
+      <p>
+        <code>React</code> <code>Node.js</code> <code>Express.js</code> <code>Data Visualization</code>
+      </p>
+      <a href="https://github.com/atharva-0605/safedrive-cockpit">📁 GitHub Repository</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <br/><br/>
+      <p>🌱 <em>More full-stack & AI/ML pipelines currently under construction...</em></p>
+    </td>
+  </tr>
+</table>
 ---
 
 <p align="center">
