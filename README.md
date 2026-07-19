@@ -52,7 +52,6 @@ Hi there! 👋 I'm **Atharva Pawar**, an **Artificial Intelligence & Data Scienc
 | 🤖 **Interests** | Artificial Intelligence • Machine Learning • Web Development |
 | 🧩 **Core Skills** | Data Structures & Algorithms • Object-Oriented Programming • DBMS |
 | 🌱 **Currently Learning** | System Design • Advanced Backend • AI/ML |
-| 🚀 **Current Project** | **DATALYZE AI** *(Under Development)* |
 | 💼 **Experience** | Technical Intern @ **Pantech E-Learning** |
 | 👥 **Leadership** | Technical Committee Member @ **SHAIDS** |
 | 🎯 **Career Goal** | Aspiring Software Development Engineer (SDE) focused on building scalable and impactful applications |
